@@ -10,8 +10,6 @@ output: html_document
 ```{r}
 library("dplyr")
 library("readxl")
-library("corrplot")
-library("writexl")
 library("Hmisc")
 library("circlize")
 ```

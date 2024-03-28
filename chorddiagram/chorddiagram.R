@@ -1,7 +1,5 @@
 library("dplyr")
 library("readxl")
-library("corrplot")
-library("writexl")
 library("Hmisc")
 library("circlize")
 

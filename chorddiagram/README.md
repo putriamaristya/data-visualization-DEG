@@ -3,6 +3,13 @@
 ## Introduction
 This is a script to visualize correlation analysis results through a chord diagram using the Circlize package on R.
 
+## Requirements
+  - R version 4.3.2 (2023-10-31 ucrt)
+  - dplyr_1.1.4
+  - readxl_1.4.3
+  - Hmisc_5.1-1
+  - circlize_0.4.16
+
 ## Data
 The data used in this script is from NCBI’s Gene Expression Omnibus (GEO) with accession number [GSE116583](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116583). It is the gene reads between two groups, Naïve (n=4) vs. Transplant (n=8).
 
